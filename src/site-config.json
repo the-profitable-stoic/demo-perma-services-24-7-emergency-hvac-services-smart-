@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Perma Services – 24/7 Emergency HVAC Services & Smart Thermostat Install Sacramento",
+    "phone": "+19164773735",
+    "category": "HVAC company",
+    "city": "Sacramento",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Sacramento HVAC Experts",
+      "heroSubline": "24/7 Emergency Service & Smart Thermostat Installation. Keeping Sacramento comfortable, one home at a time.",
+      "aboutTitle": "Your Trusted Sacramento HVAC Partner",
+      "aboutText": [
+        "Perma Services started with a simple mission: provide reliable, honest HVAC service to our Sacramento neighbors. We're a local team, born and raised right here, and we understand the unique climate challenges this region throws at your home.",
+        "We believe in doing the job right the first time, every time. Our approach is straightforward: diagnose the problem accurately, explain the solution clearly, and execute the repair efficiently. No hidden fees, no cutting corners, just dependable service you can count on.",
+        "Sacramento is our home, and we're committed to giving back. We actively support local charities and prioritize environmentally responsible practices in our work. We're not just fixing HVAC systems; we're investing in the future of our community."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "HVAC emergencies don't wait for business hours. We're available around the clock to get your system back up and running."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our team is highly trained and certified to handle any HVAC issue, from routine maintenance to complex repairs."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "We provide clear, detailed estimates before any work begins, so you know exactly what to expect."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work. If you're not completely satisfied, we'll make it right."
+        }
+      ],
+      "ctaHeadline": "Stay Comfortable Year-Round",
+      "ctaSubline": "Schedule your HVAC service today!"
+    },
+    "services": [
+      {
+        "slug": "ac-repair-sacramento",
+        "name": "AC Repair",
+        "shortDescription": "Fast, reliable AC repair services for Sacramento homes.",
+        "description": "Sacramento summers can be brutal, and a malfunctioning AC system is more than just an inconvenience – it's a health hazard. Perma Services provides rapid-response AC repair services to get your home cool again. We tackle all common AC problems, including refrigerant leaks, compressor failures, blower motor issues, and thermostat malfunctions. Our technicians arrive equipped with the tools and expertise to diagnose the problem quickly and implement an effective solution. We prioritize lasting repairs over temporary fixes, ensuring your AC runs efficiently and reliably for the long haul.\n\nWe understand the urgency of AC repairs, especially during peak summer heat. That's why we offer 24/7 emergency service. Whether it's a central AC unit in a classic Midtown bungalow or a split system in a newer Natomas home, our team has the experience to get it running smoothly. We also offer preventative maintenance plans to help you avoid costly repairs and extend the lifespan of your AC system. Regular maintenance can improve energy efficiency, reduce wear and tear, and prevent unexpected breakdowns.",
+        "process": [
+          "Step 1: Diagnostics - Thoroughly assess the AC system to pinpoint the issue.",
+          "Step 2: Transparent Quote - Provide a detailed, upfront quote for the repair.",
+          "Step 3: Expert Repair - Execute the repair with precision and quality parts.",
+          "Step 4: Testing & Validation - Confirm the AC system is functioning optimally."
+        ],
+        "benefits": [
+          "Faster cooling",
+          "Lower energy bills",
+          "Improved air quality",
+          "Extended AC lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an AC repair request?",
+            "answer": "We offer 24/7 emergency service and strive to dispatch a technician to your Sacramento home as quickly as possible, often within the hour."
+          },
+          {
+            "question": "What are the signs that my AC needs repair?",
+            "answer": "Common signs include inconsistent cooling, strange noises coming from the unit, unusual odors, and a sudden spike in your energy bills."
+          },
+          {
+            "question": "Do you offer any warranties on your AC repair services?",
+            "answer": "Yes, we stand behind our work with a comprehensive warranty on both parts and labor. Ask your technician for details."
+          }
+        ]
+      },
+      {
+        "slug": "furnace-repair-sacramento",
+        "name": "Furnace Repair",
+        "shortDescription": "Reliable furnace repair to keep your Sacramento home warm all winter.",
+        "description": "While Sacramento winters are mild, a functioning furnace is still essential for maintaining a comfortable and safe home. Perma Services provides comprehensive furnace repair services to address any heating issue you may encounter. From pilot light problems to blower motor failures, our experienced technicians can diagnose and repair all types of furnaces, including gas, electric, and propane models. We understand the importance of a functioning heating system, especially for vulnerable populations like seniors and families with young children.\n\nWe are familiar with the heating systems commonly found in Sacramento homes, from older furnaces in Midtown bungalows to newer, high-efficiency models in Elk Grove. We use only high-quality replacement parts and adhere to strict safety standards to ensure a safe and reliable repair. We also offer carbon monoxide testing to ensure your furnace is operating safely and not posing a health risk to your family. Our 24/7 emergency service ensures that you're never left in the cold, regardless of the time of day or night. We also offer preventative maintenance plans to help you avoid costly repairs and extend the lifespan of your furnace.",
+        "process": [
+          "Step 1: Thorough Inspection - Inspect the furnace to determine the cause of the problem.",
+          "Step 2: Transparent Pricing - Provide a clear, upfront estimate for the repair.",
+          "Step 3: Efficient Repair - Complete the repair quickly and effectively.",
+          "Step 4: Safety Check - Ensure the furnace is operating safely and efficiently."
+        ],
+        "benefits": [
+          "Consistent heat distribution",
+          "Reduced energy consumption",
+          "Improved indoor air quality",
+          "Peace of mind during winter"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my furnace serviced?",
+            "answer": "We recommend having your furnace serviced at least once a year, preferably before the start of the heating season."
+          },
+          {
+            "question": "What are the signs that my furnace needs repair?",
+            "answer": "Common signs include strange noises, a burning smell, inconsistent heating, and a yellow or flickering pilot light."
+          },
+          {
+            "question": "Do you offer emergency furnace repair services?",
+            "answer": "Yes, we offer 24/7 emergency furnace repair services throughout the Sacramento area."
+          }
+        ]
+      },
+      {
+        "slug": "smart-thermostat-installation",
+        "name": "Smart Thermostat Installation",
+        "shortDescription": "Upgrade to a smart thermostat for enhanced comfort and energy savings.",
+        "description": "Take control of your home's comfort and energy consumption with a smart thermostat installation from Perma Services. Smart thermostats offer a range of features that can help you save money on your energy bills while improving your home's overall comfort. From programmable schedules to remote access via your smartphone, smart thermostats put you in control of your HVAC system like never before. We are experts in installing and configuring all major brands of smart thermostats, including Nest, Ecobee, and Honeywell.\n\nWe understand the unique needs of Sacramento homeowners, and we can help you choose the right smart thermostat for your home and lifestyle. Whether you live in a historic home in Midtown or a modern condo in Natomas, we can seamlessly integrate a smart thermostat into your existing HVAC system. We handle all aspects of the installation process, including wiring, configuration, and setup. We also provide ongoing support to ensure you get the most out of your new smart thermostat. Save money and increase comfort with a smart thermostat upgrade!",
+        "process": [
+          "Step 1: Consultation - Discuss your needs and recommend the best smart thermostat.",
+          "Step 2: Professional Installation - Install the thermostat and connect it to your system.",
+          "Step 3: Configuration & Setup - Configure the thermostat according to your preferences.",
+          "Step 4: Training & Support - Show you how to use the thermostat and provide ongoing support."
+        ],
+        "benefits": [
+          "Lower energy bills",
+          "Remote access and control",
+          "Customizable schedules",
+          "Increased comfort and convenience"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of upgrading to a smart thermostat?",
+            "answer": "Smart thermostats offer a range of benefits, including energy savings, remote access, customizable schedules, and increased comfort."
+          },
+          {
+            "question": "Which smart thermostat is right for my home?",
+            "answer": "We can help you choose the right smart thermostat based on your needs, budget, and HVAC system."
+          },
+          {
+            "question": "Do you offer installation services for smart thermostats?",
+            "answer": "Yes, we offer professional installation services for all major brands of smart thermostats."
+          }
+        ]
+      },
+      {
+        "slug": "duct-cleaning-sacramento",
+        "name": "Duct Cleaning",
+        "shortDescription": "Improve your indoor air quality with professional duct cleaning services.",
+        "description": "Over time, dust, pollen, allergens, and other contaminants can accumulate in your HVAC ductwork, impacting your indoor air quality and potentially triggering respiratory problems. Perma Services provides professional duct cleaning services to remove these contaminants and improve the air you breathe. Our experienced technicians use powerful equipment to dislodge and remove debris from your ductwork, leaving your home with cleaner, healthier air.\n\nWe understand the unique air quality challenges faced by Sacramento residents, particularly during the summer months. Our duct cleaning services are designed to address these challenges and create a healthier indoor environment for you and your family. We are familiar with the ductwork systems commonly found in Sacramento homes, from older homes in Land Park to newer construction in Elk Grove. After cleaning, we can also apply sanitizers and sealants to prevent future contamination and improve energy efficiency. Breathe easier with duct cleaning services!",
+        "process": [
+          "Step 1: Inspection - Inspect the ductwork to assess the level of contamination.",
+          "Step 2: Debris Removal - Dislodge and remove debris using specialized equipment.",
+          "Step 3: Sanitizing (Optional) - Apply sanitizers to kill bacteria and mold.",
+          "Step 4: Sealing (Optional) - Seal any leaks to improve energy efficiency."
+        ],
+        "benefits": [
+          "Improved indoor air quality",
+          "Reduced allergens and dust",
+          "Better HVAC efficiency",
+          "Healthier living environment"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my ducts cleaned?",
+            "answer": "We recommend having your ducts cleaned every 3-5 years, or more frequently if you have allergies or pets."
+          },
+          {
+            "question": "What are the signs that my ducts need cleaning?",
+            "answer": "Common signs include excessive dust, visible mold, and unexplained allergy symptoms."
+          },
+          {
+            "question": "How long does duct cleaning take?",
+            "answer": "The duration of duct cleaning depends on the size and complexity of your ductwork, but it typically takes 2-4 hours."
+          }
+        ]
+      },
+      {
+        "slug": "hvac-maintenance-sacramento",
+        "name": "HVAC Maintenance",
+        "shortDescription": "Regular HVAC maintenance to prevent breakdowns and extend lifespan.",
+        "description": "Prevent costly repairs and extend the lifespan of your HVAC system with regular maintenance from Perma Services. Our comprehensive maintenance services include cleaning, inspection, and tune-up procedures designed to keep your system running efficiently and reliably. We offer customized maintenance plans to meet the unique needs of your home and budget.\n\nWe understand the importance of proactive maintenance, especially in Sacramento's hot, dry climate. Our technicians are trained to identify and address potential problems before they escalate into major repairs. We are familiar with the HVAC systems commonly found in Sacramento homes, and we use only high-quality parts and equipment. Regular maintenance can also improve your system's energy efficiency, saving you money on your utility bills. Invest in preventative maintenance and save money long term!",
+        "process": [
+          "Step 1: Inspection - Thoroughly inspect all components of the HVAC system.",
+          "Step 2: Cleaning - Clean coils, filters, and other components.",
+          "Step 3: Tune-Up - Adjust and lubricate moving parts.",
+          "Step 4: Safety Check - Ensure the system is operating safely and efficiently."
+        ],
+        "benefits": [
+          "Prevented breakdowns",
+          "Extended HVAC lifespan",
+          "Improved energy efficiency",
+          "Lower utility bills"
+        ],
+        "faq": [
+          {
+            "question": "How often should I schedule HVAC maintenance?",
+            "answer": "We recommend scheduling HVAC maintenance at least once a year, preferably in the spring or fall."
+          },
+          {
+            "question": "What is included in your HVAC maintenance service?",
+            "answer": "Our comprehensive maintenance service includes cleaning, inspection, tune-up, and safety checks."
+          },
+          {
+            "question": "Do you offer maintenance plans?",
+            "answer": "Yes, we offer customized maintenance plans to meet your specific needs and budget."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-hvac-service",
+        "name": "24/7 Emergency HVAC Service",
+        "shortDescription": "Rapid response for HVAC emergencies, day or night.",
+        "description": "HVAC emergencies don't always happen during regular business hours. That's why Perma Services offers 24/7 emergency HVAC service to Sacramento residents. Whether it's a broken AC in the middle of summer or a malfunctioning furnace during a cold snap, our team is ready to respond quickly and get your system back up and running. We understand the urgency of these situations, and we prioritize emergency calls to ensure a rapid response.\n\nWe are equipped to handle any HVAC emergency, from refrigerant leaks to compressor failures. Our technicians arrive with the tools and expertise to diagnose the problem quickly and implement an effective solution. We also offer temporary heating and cooling solutions to keep you comfortable while we work on the repair. Don't suffer through an HVAC emergency alone – call us anytime, day or night!",
+        "process": [
+          "Step 1: Immediate Dispatch - Dispatch a technician to your location immediately.",
+          "Step 2: Rapid Diagnosis - Quickly diagnose the problem and provide a solution.",
+          "Step 3: Efficient Repair - Complete the repair as quickly as possible.",
+          "Step 4: Follow-Up - Ensure your system is running smoothly after the repair."
+        ],
+        "benefits": [
+          "Rapid response",
+          "24/7 availability",
+          "Expert diagnosis and repair",
+          "Peace of mind during emergencies"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes an HVAC emergency?",
+            "answer": "An HVAC emergency is any situation that poses a risk to your health or safety, such as a broken AC during extreme heat or a malfunctioning furnace during cold weather."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We prioritize emergency calls and strive to dispatch a technician to your location as quickly as possible, often within the hour."
+          },
+          {
+            "question": "Do you charge extra for emergency service?",
+            "answer": "Yes, we do charge a premium for emergency service due to the after-hours availability and rapid response time."
+          }
+        ]
+      },
+      {
+        "slug": "new-hvac-installations",
+        "name": "New HVAC Installations",
+        "shortDescription": "Expert installation of new, energy-efficient HVAC systems.",
+        "description": "When it's time to replace your old, inefficient HVAC system, Perma Services provides expert installation of new, energy-efficient models. We offer a wide selection of top brands and can help you choose the right system for your home and budget. Our experienced technicians handle all aspects of the installation process, from removing the old system to connecting the new one. We ensure that your new system is properly sized and installed for optimal performance and efficiency.\n\nWe understand the importance of energy efficiency, especially in Sacramento's hot climate. Our new HVAC systems are designed to save you money on your utility bills while providing superior comfort. We also offer financing options to make your new HVAC system more affordable. Upgrade your old system and save money!",
+        "process": [
+          "Step 1: Consultation - Assess your needs and recommend the best system.",
+          "Step 2: Professional Install - Install the new system according to manufacturer specifications.",
+          "Step 3: System Testing - Test the system to ensure optimal performance.",
+          "Step 4: Customer Training - Train you on how to operate your new system."
+        ],
+        "benefits": [
+          "Increased energy efficiency",
+          "Lower utility bills",
+          "Improved comfort",
+          "Quieter operation"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a new HVAC system?",
+            "answer": "Signs that you need a new HVAC system include frequent breakdowns, rising energy bills, and inconsistent heating or cooling."
+          },
+          {
+            "question": "How much does a new HVAC system cost?",
+            "answer": "The cost of a new HVAC system depends on the size, type, and efficiency of the system. We offer free estimates."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we offer financing options to make your new HVAC system more affordable."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Elk Grove",
+        "slug": "elk-grove-ca",
+        "state": "CA",
+        "content": "Perma Services is proud to offer comprehensive HVAC services to the residents and businesses of Elk Grove, California. Known for its master-planned communities developed from the 1990s to the present, Elk Grove presents unique HVAC needs, from ensuring energy efficiency in modern homes to providing reliable cooling during the intense summer heat. We understand the importance of a comfortable and well-regulated indoor environment, and our team is dedicated to delivering top-notch service tailored to Elk Grove's specific requirements.\n\nOur services in Elk Grove include 24/7 emergency repairs, routine maintenance, new system installations, and smart thermostat integration. With summers often exceeding 100°F, a properly functioning air conditioning system is crucial. We're here to ensure your HVAC systems are running efficiently and effectively, providing you with peace of mind and a comfortable living space. We also cater to older homes needing retrofits and upgrades to meet current energy efficiency standards.",
+        "localContext": "Elk Grove's relatively new construction and focus on community planning means many homes benefit from modern, efficient HVAC systems. Perma Services is here to help homeowners maintain and upgrade their systems to maximize comfort and minimize energy costs in this thriving Sacramento suburb.",
+        "nearbyAreas": [
+          "Sacramento",
+          "Laguna",
+          "Galt"
+        ]
+      },
+      {
+        "city": "Roseville",
+        "slug": "roseville-ca",
+        "state": "CA",
+        "content": "Perma Services provides expert HVAC solutions to the growing community of Roseville, California. Characterized by its planned communities built primarily in the 1990s and 2000s, Roseville homes often feature modern HVAC systems. We specialize in maintaining and repairing these systems, ensuring they operate at peak performance throughout the year. Our commitment is to deliver prompt, reliable service that meets the unique needs of Roseville residents.\n\nWe offer a full spectrum of HVAC services in Roseville, including emergency repairs, regular maintenance, system upgrades, and smart thermostat installations. The hot, dry summers in Roseville demand efficient and dependable air conditioning. We're dedicated to ensuring your home remains a cool and comfortable haven during the hottest months, and that your heating system is ready for the cooler winter nights. We also specialize in air quality improvements to ensure a healthy home environment.",
+        "localContext": "Roseville's focus on planned communities and family-friendly living means many residents prioritize efficient and reliable HVAC systems. Perma Services is dedicated to providing top-quality service to keep Roseville homes comfortable year-round.",
+        "nearbyAreas": [
+          "Rocklin",
+          "Citrus Heights",
+          "Granite Bay"
+        ]
+      },
+      {
+        "city": "Folsom",
+        "slug": "folsom-ca",
+        "state": "CA",
+        "content": "Perma Services is dedicated to serving the HVAC needs of Folsom, California. Known for its newer planned communities and family-friendly atmosphere, Folsom requires dependable HVAC solutions to combat the hot summer climate. We provide a wide range of services, from emergency repairs to routine maintenance, ensuring your home remains comfortable throughout the year. Our experienced technicians are familiar with the diverse HVAC systems found in Folsom homes.\n\nWe offer comprehensive HVAC services in Folsom, including installation of energy-efficient systems, repairs, and smart thermostat integration. With summers often exceeding 100°F, a reliable air conditioning system is essential. We're committed to providing Folsom residents with the highest quality service, ensuring your HVAC systems operate efficiently and effectively. We also offer air duct cleaning to improve indoor air quality and reduce allergens.",
+        "localContext": "Folsom's focus on planned communities and its location in the Sacramento Valley make efficient and reliable HVAC systems a necessity for residents. Perma Services is committed to providing top-notch service to keep Folsom homes comfortable and energy-efficient.",
+        "nearbyAreas": [
+          "El Dorado Hills",
+          "Granite Bay",
+          "Rancho Cordova"
+        ]
+      },
+      {
+        "city": "Sacramento",
+        "slug": "sacramento-ca",
+        "state": "CA",
+        "content": "Perma Services is your trusted partner for all HVAC needs in Sacramento, CA. As a local business, we understand the unique climate challenges Sacramento faces, from scorching summers to mild winters. We offer a comprehensive range of services, including 24/7 emergency repairs, routine maintenance, and new system installations, ensuring your home or business stays comfortable year-round. Our experienced technicians are equipped to handle any HVAC issue, big or small.\n\nWe specialize in providing efficient and reliable HVAC solutions for Sacramento residents and businesses. Whether you need a quick repair, a complete system overhaul, or simply want to upgrade to a smart thermostat, we're here to help. Our commitment to customer satisfaction and quality workmanship sets us apart. We also prioritize energy efficiency, helping you save money on your utility bills while reducing your environmental impact.",
+        "localContext": "Sacramento's diverse housing stock, from historic homes to modern apartments, requires a wide range of HVAC solutions. Perma Services is equipped to handle the unique challenges of Sacramento's climate and building infrastructure.",
+        "nearbyAreas": [
+          "West Sacramento",
+          "Citrus Heights",
+          "Elk Grove"
+        ]
+      },
+      {
+        "city": "Citrus Heights",
+        "slug": "citrus-heights-ca",
+        "state": "CA",
+        "content": "Perma Services is proud to serve the community of Citrus Heights, CA, providing top-quality HVAC services to homes and businesses. We understand the importance of a reliable and efficient HVAC system in Citrus Heights, where summers are hot and dry. Our team is dedicated to delivering prompt, professional service, whether you need an emergency repair, routine maintenance, or a new system installation.\n\nWe offer a comprehensive range of HVAC services tailored to the needs of Citrus Heights residents. From air conditioning repairs and installations to furnace maintenance and smart thermostat upgrades, we've got you covered. Our experienced technicians are committed to ensuring your comfort and satisfaction. We also offer indoor air quality solutions to help you breathe easier.",
+        "localContext": "Citrus Heights' mix of established neighborhoods and newer developments means a variety of HVAC systems are in use. Perma Services is equipped to handle the diverse needs of Citrus Heights homeowners and businesses.",
+        "nearbyAreas": [
+          "Roseville",
+          "Fair Oaks",
+          "Antelope"
+        ]
+      },
+      {
+        "city": "Rocklin",
+        "slug": "rocklin-ca",
+        "state": "CA",
+        "content": "Perma Services is your trusted source for HVAC solutions in Rocklin, CA. We understand the unique needs of Rocklin residents, from keeping cool during the hot summers to staying warm during the occasional chilly winter nights. Our team is committed to providing reliable, efficient, and affordable HVAC services to ensure your comfort year-round.\n\nWe offer a full range of HVAC services in Rocklin, including emergency repairs, routine maintenance, new system installations, and smart thermostat integration. Our experienced technicians are equipped to handle any HVAC issue, and we're dedicated to providing exceptional customer service. We also offer energy-efficient solutions to help you save money on your utility bills.",
+        "localContext": "Rocklin's growing population and mix of housing styles require a diverse range of HVAC solutions. Perma Services is equipped to handle the unique needs of Rocklin homeowners and businesses.",
+        "nearbyAreas": [
+          "Roseville",
+          "Granite Bay",
+          "Lincoln"
+        ]
+      },
+      {
+        "city": "El Dorado Hills",
+        "slug": "el-dorado-hills-ca",
+        "state": "CA",
+        "content": "Perma Services provides expert HVAC services in El Dorado Hills, CA. We understand the importance of a reliable and efficient HVAC system in this upscale community, where comfort and energy efficiency are top priorities. Our team is dedicated to delivering prompt, professional service, whether you need an emergency repair, routine maintenance, or a new system installation.\n\nWe offer a comprehensive range of HVAC services tailored to the needs of El Dorado Hills residents. From high-efficiency air conditioning systems to smart thermostat upgrades, we've got you covered. Our experienced technicians are committed to ensuring your comfort and satisfaction. We also offer indoor air quality solutions to help you breathe easier in your beautiful El Dorado Hills home.",
+        "localContext": "El Dorado Hills' focus on luxury living and energy efficiency means many residents seek high-performance HVAC systems. Perma Services is dedicated to providing top-quality service to meet the needs of El Dorado Hills homeowners.",
+        "nearbyAreas": [
+          "Folsom",
+          "Cameron Park",
+          "Granite Bay"
+        ]
+      },
+      {
+        "city": "Lincoln",
+        "slug": "lincoln-ca",
+        "state": "CA",
+        "content": "Perma Services is dedicated to providing top-notch HVAC services to the residents of Lincoln, California. Lincoln's growing community and warm climate demand reliable and efficient HVAC systems. We offer a comprehensive range of services, from emergency repairs to routine maintenance, ensuring your home remains comfortable throughout the year. Our experienced technicians are familiar with the diverse HVAC systems found in Lincoln homes.\n\nWe offer comprehensive HVAC services in Lincoln, including installation of energy-efficient systems, repairs, and smart thermostat integration. With summers often being very hot, a reliable air conditioning system is essential. We're committed to providing Lincoln residents with the highest quality service, ensuring your HVAC systems operate efficiently and effectively. We also offer air duct cleaning to improve indoor air quality and reduce allergens.",
+        "localContext": "Lincoln's rapid growth and varied housing styles make efficient and reliable HVAC systems a necessity for residents. Perma Services is committed to providing top-notch service to keep Lincoln homes comfortable and energy-efficient.",
+        "nearbyAreas": [
+          "Rocklin",
+          "Roseville",
+          "Loomis"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alicia K.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "Our AC died during a heatwave. Perma Services came out within an hour and had it fixed quickly. The technician, Mark, was professional and explained everything clearly. Highly recommend!",
+        "date": "2025-07-18"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Furnace Maintenance",
+        "text": "Scheduled a furnace check-up before winter. The technician was on time, thorough, and gave me some good tips on maintaining my system. Appreciated the attention to detail.",
+        "date": "2025-10-22"
+      },
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Smart Thermostat Installation",
+        "text": "Perma Services installed a Nest thermostat in my home. The process was smooth, and the technician, David, patiently walked me through all the features. My energy bills have already gone down!",
+        "date": "2025-03-05"
+      },
+      {
+        "name": "James L.",
+        "rating": 5,
+        "service": "Duct Cleaning",
+        "text": "We had a lot of dust in our house, even after cleaning. Perma Services cleaned our ducts, and the difference is amazing! The air feels cleaner, and the dust is significantly reduced. Great service!",
+        "date": "2025-05-11"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "AC Maintenance",
+        "text": "Called Perma Services for AC maintenance before the summer heat. They were professional and did a good job. My AC is running much more efficiently now. The technician was friendly and knowledgeable.",
+        "date": "2025-06-28"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Emergency Furnace Repair",
+        "text": "Our furnace stopped working in the middle of the night. Perma Services responded quickly and got it fixed within a couple of hours. We were so grateful for their prompt and reliable service.",
+        "date": "2025-01-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Perma Services: Sacramento HVAC",
+        "description": "24/7 Emergency HVAC Services & Smart Thermostat Install in Sacramento, CA. Reliable AC & Furnace Repair. Call Today!"
+      },
+      "about": {
+        "title": "About Perma Services",
+        "description": "Learn about Perma Services, your trusted HVAC partner in Sacramento. Reliable, honest & community-focused."
+      },
+      "services": {
+        "title": "HVAC Services Sacramento CA",
+        "description": "Perma Services offers comprehensive HVAC services in Sacramento, CA: AC Repair, Furnace Repair, Smart Thermostat Installation"
+      },
+      "contact": {
+        "title": "Contact Perma Services",
+        "description": "Contact Perma Services for all your HVAC needs in Sacramento, CA. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Perma Services Reviews",
+        "description": "Read reviews from satisfied Perma Services customers in Sacramento, CA. See why we're the trusted choice for HVAC."
+      },
+      "service-areas": {
+        "title": "Perma Services Service Areas",
+        "description": "Perma Services provides HVAC services in Sacramento and surrounding areas: Elk Grove, Roseville, Folsom."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "ac-repair-sacramento": "/images/service-ac-repair-sacramento.webp",
+      "furnace-repair-sacramento": "/images/service-furnace-repair-sacramento.webp",
+      "smart-thermostat-installation": "/images/service-smart-thermostat-installation.webp",
+      "duct-cleaning-sacramento": "/images/service-duct-cleaning-sacramento.webp",
+      "hvac-maintenance-sacramento": "/images/service-hvac-maintenance-sacramento.webp",
+      "emergency-hvac-service": "/images/service-emergency-hvac-service.webp",
+      "new-hvac-installations": "/images/service-new-hvac-installations.webp"
+    },
+    "servicesResponsive": {
+      "ac-repair-sacramento": {
+        "src": "/images/service-ac-repair-sacramento.webp",
+        "srcset": "/images/service-ac-repair-sacramento-400w.webp 400w, /images/service-ac-repair-sacramento-800w.webp 800w, /images/service-ac-repair-sacramento-1200w.webp 1200w, /images/service-ac-repair-sacramento.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "furnace-repair-sacramento": {
+        "src": "/images/service-furnace-repair-sacramento.webp",
+        "srcset": "/images/service-furnace-repair-sacramento-400w.webp 400w, /images/service-furnace-repair-sacramento-800w.webp 800w, /images/service-furnace-repair-sacramento-1200w.webp 1200w, /images/service-furnace-repair-sacramento.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "smart-thermostat-installation": {
+        "src": "/images/service-smart-thermostat-installation.webp",
+        "srcset": "/images/service-smart-thermostat-installation-400w.webp 400w, /images/service-smart-thermostat-installation-800w.webp 800w, /images/service-smart-thermostat-installation-1200w.webp 1200w, /images/service-smart-thermostat-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "duct-cleaning-sacramento": {
+        "src": "/images/service-duct-cleaning-sacramento.webp",
+        "srcset": "/images/service-duct-cleaning-sacramento-400w.webp 400w, /images/service-duct-cleaning-sacramento-800w.webp 800w, /images/service-duct-cleaning-sacramento-1200w.webp 1200w, /images/service-duct-cleaning-sacramento.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hvac-maintenance-sacramento": {
+        "src": "/images/service-hvac-maintenance-sacramento.webp",
+        "srcset": "/images/service-hvac-maintenance-sacramento-400w.webp 400w, /images/service-hvac-maintenance-sacramento-800w.webp 800w, /images/service-hvac-maintenance-sacramento-1200w.webp 1200w, /images/service-hvac-maintenance-sacramento.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-hvac-service": {
+        "src": "/images/service-emergency-hvac-service.webp",
+        "srcset": "/images/service-emergency-hvac-service-400w.webp 400w, /images/service-emergency-hvac-service-800w.webp 800w, /images/service-emergency-hvac-service-1200w.webp 1200w, /images/service-emergency-hvac-service.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "new-hvac-installations": {
+        "src": "/images/service-new-hvac-installations.webp",
+        "srcset": "/images/service-new-hvac-installations-400w.webp 400w, /images/service-new-hvac-installations-800w.webp 800w, /images/service-new-hvac-installations-1200w.webp 1200w, /images/service-new-hvac-installations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
